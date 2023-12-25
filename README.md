@@ -21,10 +21,10 @@ Each solution is provided with a detailed explanation and approach, aiming to he
 
 ## Languages
 
-The solutions are provided in 2 programming languages:
+The solutions are coded  in 2 programming languages:
 
 - Python
-- C++
+- C++ (majorly used )
 
 
 ## Solutions
