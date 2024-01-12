@@ -29,7 +29,8 @@ The solutions are coded  in 2 programming languages:
 
 ## Solutions
 
-the filename indicates queston name and the content inludes description and solution of problem.
+the Solutions are named as per their respective Question number_and name on Leetcode .  
+For example Trapping rain water problem is Question 42 on Leetcode so the Solution file name is 42_Trapping_rain_water
 
 ## Contributing
 
